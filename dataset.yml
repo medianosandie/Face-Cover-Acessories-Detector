@@ -1,0 +1,14 @@
+
+path: ../Face-Cover-Accessories-Detector-2-1
+train: train  
+val: valid 
+test: test 
+
+# Classes
+nc: 4  # number of classes
+names: [ 
+  'cap',
+  'dark-glasses',
+  'helmet',
+  'mask'
+ ]  # class names
